@@ -1,6 +1,8 @@
 #Roman Malyi
+
 ---
 ##Contacts
+
 ---
 *   __Location__: Dnipro ,Ukraine
 *   __Phone__: +380632958306
@@ -8,11 +10,13 @@
 *   __GitHub__: [Roman15122022](https://github.com/Roman15122022)
 ---
 ##About me
+
 ---
 I have a good soft skills, always happy to learn something new and I really want to be a programmer.
 
 ---
 ##Skills
+
 ---
 *   __HTML5__
     *   Bootsrap(basic)
@@ -22,6 +26,7 @@ I have a good soft skills, always happy to learn something new and I really want
 *   __Git__
 ---
 ##Code Example
+
 ---
 ```
 function pow(x, n) {
@@ -35,17 +40,20 @@ function pow(x, n) {
 
 ```
 ##Experience
+
 --- 
 not yet :)
 
 ---
 ##Education
+
 ---
+
 *   __University__: Oles Honchar Dnipro National University, сurrently getting(Bachelor)
 *   __Courses__:
     *   Sololearn HTML5
 
-*   __RSshool__: now
+*   __RSschool__: now
 ---
 ##Languages
 *   __English__   __A2__ (ePam test)
