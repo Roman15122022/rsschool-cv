@@ -42,7 +42,7 @@ function pow(x, n) {
 ##Experience
 
 --- 
-not yet :)
+not yet 0_0
 
 ---
 ##Education
