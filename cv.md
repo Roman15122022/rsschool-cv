@@ -1,8 +1,8 @@
-#Roman Malyi
+#  Roman Malyi
 
 ***
 
-##Contacts
+## Contacts
 
 ***
 *   __Location__: Dnipro ,Ukraine
@@ -12,7 +12,7 @@
 
 ***
 
-##About me
+## About me
 
 ***
 
@@ -20,7 +20,7 @@ I have a good soft skills, always happy to learn something new and I really want
 
 ***
 
-##Skills
+## Skills
 
 ***
 *   __HTML5__
@@ -32,7 +32,7 @@ I have a good soft skills, always happy to learn something new and I really want
 
 ***
 
-##Code Example
+## Code Example
 
 ***
 ```
@@ -46,7 +46,7 @@ function pow(x, n) {
     return result;
 
 ```
-##Experience
+## Experience
 
 ***
 
@@ -54,7 +54,7 @@ not yet 0_0
 
 ***
 
-##Education
+## Education
 
 ***
 
@@ -66,7 +66,7 @@ not yet 0_0
 
 ***
 
-##Languages
+## Languages
 *   __English__   __A2__ (ePam test)
 *   __Ukrainian__ native
 *   __Russian__ native
