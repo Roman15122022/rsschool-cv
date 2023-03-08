@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6{
 /* CONTAINER */
 .container{
     width: 100%;
-    max-width: 1230px;
+    max-width: 1200px !important;
     margin: 0 auto;
     padding: 0 15px;
 }
@@ -70,7 +70,9 @@ h1,h2,h3,h4,h5,h6{
     font-size: 20px;
     border: 1px solid #fff;
     background-color: #fff;
-    padding: 0 15px 0 15px;
+    width: 125px;
+    height: 30px;
+    padding-bottom: 30px;
 }
 .contacts{
     color: white;
@@ -81,8 +83,44 @@ h1,h2,h3,h4,h5,h6{
 .contacts__div{
     padding-top: 10px;
 }
-ul{
+.ul{
     margin-top: 20px!important;
     margin-left: 55px;
     color: white;
+}
+
+/*col2*/
+.title__r{
+    text-align: center;
+}
+.subtitle__r{
+    text-transform: uppercase;
+    margin: 0 auto;
+    display: inline-block;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    border: 1px solid #cfbcde;
+    background-color:#cfbcde;
+    height: 30px;
+    padding: 0 20px 30px 20px;
+}
+.mt{
+    margin-top: 100px;
+}
+.univers{
+    margin-top: 20px;
+    margin-left: 50px;
+    color: gray;
+    text-align: left;
+    line-height: 2;
+}
+.ul_2{
+    color: gray;
+}
+.gray{
+    color: gray;
+}
+.br{
+    border-right: 5px solid #cfbcde !important;
 }
