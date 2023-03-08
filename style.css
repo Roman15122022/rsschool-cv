@@ -21,3 +21,68 @@ h1,h2,h3,h4,h5,h6{
     margin: 0 auto;
     padding: 0 15px;
 }
+
+/*col1*/
+.img__cv{
+    
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 100px auto 20px;
+}
+
+.name{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.bgc{
+    background-color: #cfbcde!important;
+}
+
+.about__myself{
+    font-size: 18px;
+    color: white;
+    margin: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: justify;
+}
+.about__myself::after{
+    display: block;
+    content: '';
+    background-color: white;
+    width: 100%;
+    height: 5px;
+    margin-top: 10px;
+    margin-bottom: 50px ;
+}
+.title{
+    text-align: center;
+}
+.subtitle__contact{
+    text-transform: uppercase;
+    margin: 0 auto;
+    display: inline-block;
+    color: rgb(100, 159, 100);
+    font-weight: 600;
+    font-size: 20px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    padding: 0 15px 0 15px;
+}
+.contacts{
+    color: white;
+    margin-top: 15px;
+    margin-left: 72px;
+    margin-bottom: 30px;
+}
+.contacts__div{
+    padding-top: 10px;
+}
+ul{
+    margin-top: 20px!important;
+    margin-left: 55px;
+    color: white;
+}
