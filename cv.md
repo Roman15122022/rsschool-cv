@@ -19,4 +19,4 @@ I have a good soft skills, always happy to learn something new and I really want
 *   __CSS3__
 *   __JavaScript__(basic)
 *   __Photoshop__(basic)
-*   __Git__ 
+*   __Git__  
